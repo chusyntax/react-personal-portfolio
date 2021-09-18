@@ -60,8 +60,12 @@ Navbar
 ===============
 */
 nav {
-  background: rgb(173, 2, 173);
+  background: rgb(187, 4, 187);
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+  position: sticky;
+  top:0;
+  left:0;
+
 }
 .nav_header {
   display: flex;
