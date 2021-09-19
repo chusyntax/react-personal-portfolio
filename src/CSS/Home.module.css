@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap');
 section{
     height:100vh;
+    margin-bottom: -25vh;
 }
 .home{
     height:auto;
@@ -8,7 +9,7 @@ section{
     display:grid;
     grid-template-columns:1fr 1fr;
     font-family: Nunito Sans,sans-serif!important;
-    margin-top: 130px;
+    margin-top: 20vh;
 }
 
 .intro{
@@ -129,5 +130,8 @@ h3{
     }
     .wave{
         display:none;
+    }
+    section{
+        margin-bottom:5vh;
     }
 }
