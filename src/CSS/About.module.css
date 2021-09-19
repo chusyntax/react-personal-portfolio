@@ -69,6 +69,7 @@ h1{
     justify-content: center;
 }
 
+
 @media screen and (max-width:800px) {
     .aboutGrid{
         grid-template-columns: 1fr;
